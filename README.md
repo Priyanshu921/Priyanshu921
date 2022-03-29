@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshu921
+- 👋 Hi, I’m Priyanshu Patidar
 - 👀 I’m interested in ...web and app development
 - 🌱 I’m currently learning ...Express
 - 💞️ I’m looking to collaborate on ... web development
