@@ -1,5 +1,5 @@
 
-![programmer-cycle](https://user-images.githubusercontent.com/54221295/163727659-ef13ff26-12a1-4f61-811a-6b8fb57072a0.gif)
+<p style="margin-left:25px">![programmer-cycle](https://user-images.githubusercontent.com/54221295/163727659-ef13ff26-12a1-4f61-811a-6b8fb57072a0.gif)</p>
 
 
 - 👋 Hi, I’m Priyanshu Patidar
