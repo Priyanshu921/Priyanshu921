@@ -5,7 +5,7 @@
   >
 </p>
 
-- 👋 Hi, I’m Priyanshu Patidar.I am a Full Stack Developer 👨🏾‍💻 and a Technophile 🖥️.I am passionate about learning new technologies as well as brushing up my current skills.
+- 👋 Hi, I’m Priyanshu Patidar. I am a Full Stack Developer 👨🏾‍💻 and a Technophile 🖥️. I am passionate about learning new technologies as well as brushing up my current skills.
 
 - 👀 I’m interested in web and app development
  
