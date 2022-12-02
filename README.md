@@ -19,12 +19,14 @@
   <h2>Skills</h2>
     <details>
       <summary>Language</summary>
-        1. Python<br/>
+        1. TypeScript<br/>
         2. JavaScript<br/>
         3. sql <br>
-        4. C<br/>
+        4. Python<br/>
         5. html<br/>
         6. css<br/>
+        7. SASS<br/>
+        8. C<br/>
     </details>
      <details>
       <summary>Framework/Libraries</summary>
@@ -52,6 +54,7 @@
        2. git <br/>
        3. Postman <br/>
        4. Visual Studio Code <br/>
+       5. Azure <br/>
      </p>
     </details>
 </p>
