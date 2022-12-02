@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in web and app development
  
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working on MERN Stack
 
 - 💞️ I’m looking to collaborate on web development
 
