@@ -31,11 +31,11 @@
      <details>
       <summary>Framework/Libraries</summary>
       <p>
-        1. Django <br/>
-        2. React <br/>
-        3. Angular <br/>
-        4. Express <br/>
-        5. Bootstrap <br/>
+        1. React <br/>
+        2. Nest <br/>
+        3. Express <br/>
+        4. Next <br/>
+        5. Django <br/>
       </p>
     </details>
     <details>
@@ -55,6 +55,7 @@
        3. Postman <br/>
        4. Visual Studio Code <br/>
        5. Azure <br/>
+       6. Jira
      </p>
     </details>
 </p>
