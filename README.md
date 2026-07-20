@@ -1,66 +1,89 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/54221295/163727659-ef13ff26-12a1-4f61-811a-6b8fb57072a0.gif" alt="Welcome Animation">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Priyanshu+Patidar;Software+Engineer;Architecting+Scalable+Systems;Building+Robust+Backends" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi, I'm Priyanshu Paatidaar 👋</h1>
-<h3 align="center">Software Engineer | Architecting Scalable Enterprise Solutions & Robust Backends</h3>
+<br/>
 
-- 🚀 **Currently working on:** End-to-end architecture of enterprise ERPs, financial tools, and large-scale data synchronization pipelines.
-- 🧠 **Currently learning:** Executing my 52-Week "Architect Roadmap" strictly focused on Technical System Design and DSA.
-- 🛠️ **Side Project:** Developing **GallaLive**, an automated invoice extraction system utilizing NestJS and Python.
-- 🤝 **Looking to collaborate on:** Open-source projects related to microservices, API resilience, and scalable backend architectures.
-- 📫 **Let's connect:** <a href="https://www.linkedin.com/in/priyanshu-patidar-740692170/">LinkedIn</a> | <a href="https://portfolio-16os.onrender.com">Portfolio</a>
+<div align="center">
+  <p>
+    <a href="https://portfolio-16os.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/priyanshu-patidar-740692170/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
 
 <hr>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+### 🚀 About Me
+
+- 🏢 **Currently working on:** End-to-end architecture of enterprise ERPs, financial tools, and large-scale data synchronization pipelines.
+- 🧠 **Currently learning:** Executing my 52-Week "Architect Roadmap" strictly focused on Technical System Design and DSA.
+- 🤝 **Looking to collaborate on:** Open-source projects related to microservices, API resilience, and scalable backend architectures.
+
+<hr>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p><strong>Backend & Frameworks</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_Chalice-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </p>
+
+  <p><strong>Frontend & State Management</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  </p>
+
+  <p><strong>Databases & ORMs</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+  </p>
+
+  <p><strong>Libraries, Testing & Cloud</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
+
+<hr>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <details>
-    <summary><b>💻 Backend & APIs</b></summary>
-    <br/>
-    <ul>
-      <li>TypeScript & JavaScript (ES6+)</li>
-      <li>Node.js & NestJS</li>
-      <li>Express.js</li>
-      <li>Python & Django</li>
-      <li>REST APIs & Microservices</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><b>🖥️ Frontend</b></summary>
-    <br/>
-    <ul>
-      <li>React.js</li>
-      <li>Redux</li>
-      <li>Tailwind CSS & MUI</li>
-      <li>SASS</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><b>🗄️ Databases</b></summary>
-    <br/>
-    <ul>
-      <li>PostgreSQL</li>
-      <li>MongoDB (Mongoose)</li>
-      <li>MySQL</li>
-      <li>SQL</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><b>⚙️ Cloud, DevOps & Architecture</b></summary>
-    <br/>
-    <ul>
-      <li>AWS & Azure</li>
-      <li>Docker</li>
-      <li>Git & CI/CD Pipelines</li>
-      <li>Postman (API Testing)</li>
-      <li>Jira & Bitbucket</li>
-    </ul>
-  </details>
+  <a href="https://github.com/Priyanshu921" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu921&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Priyanshu921" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Priyanshu921&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!---
