@@ -1,66 +1,68 @@
-
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/54221295/163727659-ef13ff26-12a1-4f61-811a-6b8fb57072a0.gif"
-  >
+  <img src="https://user-images.githubusercontent.com/54221295/163727659-ef13ff26-12a1-4f61-811a-6b8fb57072a0.gif" alt="Welcome Animation">
 </p>
 
-- 👋 Hi, I’m Priyanshu Patidar. I am a Full Stack Developer 👨🏾‍💻 and a Technophile 🖥️. I am passionate about learning new technologies as well as brushing up my current skills.
+<h1 align="center">Hi, I'm Priyanshu Paatidaar 👋</h1>
+<h3 align="center">Software Engineer | Architecting Scalable Enterprise Solutions & Robust Backends</h3>
 
-- 👀 I’m interested in web and app development
- 
-- 🌱 I’m currently working on MERN Stack
+- 🚀 **Currently working on:** End-to-end architecture of enterprise ERPs, financial tools, and large-scale data synchronization pipelines.
+- 🧠 **Currently learning:** Executing my 52-Week "Architect Roadmap" strictly focused on Technical System Design and DSA.
+- 🛠️ **Side Project:** Developing **GallaLive**, an automated invoice extraction system utilizing NestJS and Python.
+- 🤝 **Looking to collaborate on:** Open-source projects related to microservices, API resilience, and scalable backend architectures.
+- 📫 **Let's connect:** <a href="https://www.linkedin.com/in/priyanshu-patidar-740692170/">LinkedIn</a> | <a href="https://portfolio-16os.onrender.com">Portfolio</a>
 
-- 💞️ I’m looking to collaborate on web development
+<hr>
 
-- 📫 You can connect with me on <a href="https://www.linkedin.com/in/priyanshu-patidar-740692170/">LinkedIn</a>
- 
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <p align="center">
-  <h2>Skills</h2>
-    <details>
-      <summary>Language</summary>
-        1. TypeScript<br/>
-        2. JavaScript<br/>
-        3. sql <br>
-        4. Python<br/>
-        5. html<br/>
-        6. css<br/>
-        7. SASS<br/>
-        8. C<br/>
-    </details>
-     <details>
-      <summary>Framework/Libraries</summary>
-      <p>
-        1. React <br/>
-        2. Nest <br/>
-        3. Express <br/>
-        4. Next <br/>
-        5. Django <br/>
-      </p>
-    </details>
-    <details>
-     <summary>Database</summary>
-     <p>
-       1. MySQL <br/>
-       2. PostgreSQL <br/>
-       3. MongoDB <br/>
-       4. SQLite3 <br/>
-     </p>
-    </details>
-    <details>
-     <summary>Tools and IDE</summary>
-     <p>
-       1. Github <br/>
-       2. git <br/>
-       3. Postman <br/>
-       4. Visual Studio Code <br/>
-       5. Azure <br/>
-       6. Jira
-     </p>
-    </details>
+  <details>
+    <summary><b>💻 Backend & APIs</b></summary>
+    <br/>
+    <ul>
+      <li>TypeScript & JavaScript (ES6+)</li>
+      <li>Node.js & NestJS</li>
+      <li>Express.js</li>
+      <li>Python & Django</li>
+      <li>REST APIs & Microservices</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><b>🖥️ Frontend</b></summary>
+    <br/>
+    <ul>
+      <li>React.js</li>
+      <li>Redux</li>
+      <li>Tailwind CSS & MUI</li>
+      <li>SASS</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><b>🗄️ Databases</b></summary>
+    <br/>
+    <ul>
+      <li>PostgreSQL</li>
+      <li>MongoDB (Mongoose)</li>
+      <li>MySQL</li>
+      <li>SQL</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><b>⚙️ Cloud, DevOps & Architecture</b></summary>
+    <br/>
+    <ul>
+      <li>AWS & Azure</li>
+      <li>Docker</li>
+      <li>Git & CI/CD Pipelines</li>
+      <li>Postman (API Testing)</li>
+      <li>Jira & Bitbucket</li>
+    </ul>
+  </details>
 </p>
 
 <!---
 Priyanshu921/Priyanshu921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
